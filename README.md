@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer
 
-"Full-stack developer experienced in building and optimizing production web applications, RESTful APIs, and relational databases. Core stack: PHP (Laravel), Vue.js, React, and MySQL."
+"Experienced in building and optimizing production web applications, admin dashboards, RESTful APIs, and relational databases. Specialized in PHP (Laravel), Vue.js, React, and MySQL."
 
 ---
 
