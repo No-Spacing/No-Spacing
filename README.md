@@ -37,5 +37,4 @@
 ### ⚡ What I'm Up To
 
 - 🔭 **Working on:** High-performance web applications using Laravel, Vue 3, and PrimeVue, alongside cross-platform mobile apps.
-- 💬 **Ask me about:** PHP / Laravel APIs, Vue.js state management & validation, React Native mobile apps, dynamic forms, and database optimization.
 - ⚡ **Exploring:** Real-time application architectures using Laravel Reverb & WebSockets.
